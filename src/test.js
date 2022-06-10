@@ -5,6 +5,7 @@ export default class test extends Component {
     return (
       <div>
           <h1>1</h1>
+          <h1>2</h1>
       </div>
     )
   }
